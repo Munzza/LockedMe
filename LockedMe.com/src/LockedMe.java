@@ -157,7 +157,7 @@ public class LockedMe {
 			}
 		}
 		
-		f.exists();
+	
 		
 	}
 
